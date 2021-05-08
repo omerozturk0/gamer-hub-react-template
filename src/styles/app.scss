@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700&display=swap');
+@import "./fonts/flaticon/flaticon";
+@import "variables";
+@import "global";
+@import "~bootstrap/scss/bootstrap";
+
+// Components
+@import "src/components/Header/header";
+@import "src/components/Footer/footer";
+@import "src/components/PageBody/main";

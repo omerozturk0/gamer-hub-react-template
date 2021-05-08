@@ -1,0 +1,25 @@
+$custom-primary-color: #0091ff;
+$custom-secondary-color: #f7b500;
+$body-bg: #1c1c1e;
+$font-family-base: 'Rubik', sans-serif;
+$font-weight-base: 400;
+$font-weight-bold: 500;
+$body-color: #a6a6a6;
+
+$blue: $custom-primary-color;
+$yellow: $custom-secondary-color;
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px
+) !default;
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1070px
+) !default;
